@@ -11,6 +11,8 @@ $ cat file.txt :shows the content
 $ history: shows previously executed commands
 $ cp file.txt file2.txt:it copy the files
 $ echo: print the content 
+$ vi:write a content
+$ date:display today date
 $ grep "error" file.txt :search for text
 $ uname:shows the current username
 $ uptime:shows the current time

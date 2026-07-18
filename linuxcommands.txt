@@ -1,0 +1,24 @@
+$ cd filename: change directory
+$ ls :list files and floders
+$ ls -a:shows the hidden files
+$ pwd:shows the current directory
+$ mkdir:create a new diretory
+$ touch: create a new file
+$ rm:remove a fil
+$ mv:move or rename a file
+$ clear: clear the terminal
+$ cat file.txt :shows the content
+$ history: shows previously executed commands
+$ cp file.txt file2.txt:it copy the files
+$ echo: print the content 
+$ grep "error" file.txt :search for text
+$ uname:shows the current username
+$ uptime:shows the current time
+$ id:shows user id or group id
+$ who:shows all current user are loged
+$ sudo:it gives user do  permission
+$ shutdown: it helps to shutdown the system 
+$ reboot: it helps to restart the system
+$ passwd filename: create new password for user
+$ su filename:switch current user to another 
+
